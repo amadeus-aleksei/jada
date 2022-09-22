@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jada/static/css/main.073c9b0a.css",
+    "main.js": "/jada/static/js/main.8ee88216.js",
+    "static/js/787.af4a835b.chunk.js": "/jada/static/js/787.af4a835b.chunk.js",
+    "static/media/logo.svg": "/jada/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jada/index.html",
+    "main.073c9b0a.css.map": "/jada/static/css/main.073c9b0a.css.map",
+    "main.8ee88216.js.map": "/jada/static/js/main.8ee88216.js.map",
+    "787.af4a835b.chunk.js.map": "/jada/static/js/787.af4a835b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8ee88216.js"
+  ]
+}
