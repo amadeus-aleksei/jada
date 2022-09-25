@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/jada/static/css/main.9262cc8e.css",
-    "main.js": "/jada/static/js/main.df372873.js",
+    "main.css": "/jada/static/css/main.2ab1c464.css",
+    "main.js": "/jada/static/js/main.2d10b951.js",
     "static/js/787.af4a835b.chunk.js": "/jada/static/js/787.af4a835b.chunk.js",
+    "static/media/skyline-mobile.png": "/jada/static/media/skyline-mobile.32e235261c2df03e3d98.png",
     "static/media/logo.png": "/jada/static/media/logo.d61f913abb3bfac6f261.png",
     "static/media/FranklinGothicITALIC.ttf": "/jada/static/media/FranklinGothicITALIC.269e2592959ac45ba3c1.ttf",
     "static/media/FranklinGothic.ttf": "/jada/static/media/FranklinGothic.03cdc01d4bf509829f28.ttf",
@@ -11,12 +12,12 @@
     "static/media/emailicon.svg": "/jada/static/media/emailicon.7009c709ba4d61ac47fcc7774e4a9c6d.svg",
     "static/media/phoneicon.svg": "/jada/static/media/phoneicon.0535cc2c6928b9b2d6bd26a3eb61c9fe.svg",
     "index.html": "/jada/index.html",
-    "main.9262cc8e.css.map": "/jada/static/css/main.9262cc8e.css.map",
-    "main.df372873.js.map": "/jada/static/js/main.df372873.js.map",
+    "main.2ab1c464.css.map": "/jada/static/css/main.2ab1c464.css.map",
+    "main.2d10b951.js.map": "/jada/static/js/main.2d10b951.js.map",
     "787.af4a835b.chunk.js.map": "/jada/static/js/787.af4a835b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9262cc8e.css",
-    "static/js/main.df372873.js"
+    "static/css/main.2ab1c464.css",
+    "static/js/main.2d10b951.js"
   ]
 }
